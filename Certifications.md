@@ -47,6 +47,7 @@ permalink: certifications
 * [QA logical skills
   ](assets\img\Certifications\CertificateOfCompletion_Become_a_Software_Developer.pdf)
 * [Test Automation Fundation](assets\img\Certifications\Mentormate\certificates_TAU-dd66aaa8.png)
+* [IntelliJ for Test Automation Engineers](assets\img\Certifications\Mentormate\certificates_TAU-fb6b95c8.png)
 
 ### FPuna - Resources
 
