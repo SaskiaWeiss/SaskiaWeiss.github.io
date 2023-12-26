@@ -4,39 +4,79 @@ title: About Me
 permalink: about
 ---
 
-Hello, I'm saskia Weiss, a 19-year-old software developer passionate about crafting innovative solutions. With a strong academic background in Software Engineering, I bring a diverse set of skills and expertise to the table
+# Hello, I'm Saskia Weiss
 
-if you are interested feel free to  [Download my Resume](./assets/img/Resumes/Resumen%20Ivan%20Weiss%20Van%20Der%20Pol%2003072023.pdf){:target="_blank"}
-### Languges
+## Aspiring Biologist and Mycologist
 
-I am fluent in English, Spanish (Castilian) and i'm polishing my Dutch (Flemish). Being multilingual enables me to effectively communicate and collaborate with diverse teams and stakeholders, facilitating seamless project execution.
+Excited high school graduate with a passion for biology and mycology. Currently studying biology at FACEN in the Universidad Nacional de Asuncion. Eager to dive deeper into the fascinating world of fungi.
 
-| Languages | Speech   | Reading   | Writing   |
-|-----------|----------|-----------|-----------|
-| English   | Native   | Native    | Native    |
-| Spanish   | Native   | Native    | Native    |
-| Dutch     | Native   | Intermediate | Beginner |
+If you are interested, feel free to [Download my Resume](./path/to/your/resume.pdf){:target="_blank"}
 
-## Experience
+## Basic Information
 
-- QA Engineer (Manual Testing) at WPG.srl - [2018/Oct - Present]
-- Software Developer at WPG.srl - [2018/Oct - Present]
+- **Full Name:**
+  - Saskia Weiss van der Pol
 
-## Skills
+- **Professional Title or Occupation:**
+  - Aspiring Biologist and Mycologist
 
-As a software engineer, I possess a wide range of technical skills that enable me to tackle complex challenges and deliver high-quality solutions. Here are some of my key skills:
+- **Educational Background:**
+  - Graduated from high school at Centro Educativo Sagrado Corazon de Jesus with a focus on "Ciencias Basicas."
+  - Currently studying biology at FACEN in the Universidad Nacional de Asuncion.
 
-| **Automation:**                                                                          | **Data Analysis:**                                                                   | **Version Control:**                                                                |
-| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
-| <img src="assets/img/logos/Selenium_logo.svg" alt="Selenium" height="70" width="130"  /> | <img src="assets/img/logos/Pandas_logo.svg" alt="Pandas" height="70" width="130"  /> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git"  /> |
+- **Professional Experience:**
+  - Home Bakery
+  - Sales at La Vieja Holanda
+  - No formal professional experience yet, but excited to embark on the academic journey at UNA.
 
-| **Front-end:**                                                                                               | **Back-end:**                                                                                                      | **Databases:**                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
-| <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML"  />                       | <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="Java" height="50" width="120"  />       | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="MySQL" height="70" width="130"  /> |
-| <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="CSS" height="60" width="90"  /> | <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="Python" height="50" width="150"  /> |                                                                                                                 |
-| <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JS"  />                     | <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django"  />                 |                                                                                                                 |
-| <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React"  />                        |                                                                                                                    |                                                                                                                 |
+- **Key Skills:**
+  - Strong foundations in English, Spanish, and Dutch
+  - Strong foundation in biology and mycology concepts
+  - Eagerness to learn and explore the world of fungi
+  - Experience in the making of osteological animal reconstruction
+
+- **Professional Achievements or Projects:**
+  - Completed high school with honors mention
+  - Enthusiastic participation in high school science fairs
+  - Worked on an osteology project presented in the 2023 science fair at FACEN
+
+- **Professional Interests or Specializations:**
+  - Mycology, biodiversity, ecological studies
+
+- **Contact Information:**
+  - Email: saskia.weissvanderpol@gmail.com
+  - Cellphone Number: (595) 985725871
+
+- **Professional Bio or Summary:**
+  - Excited high school graduate with a passion for biology and mycology. Looking forward to starting my academic journey at UNA and diving deeper into the fascinating world of fungi.
+
+## Aspirations at UNA
+
+- **Professional Mission or Vision:**
+  - To contribute to the understanding of fungal ecosystems and their impact on the environment through academic pursuits at UNA.
+
+- **Work Philosophy or Approach:**
+  - Eager to embrace the challenges of academic life, constantly seeking knowledge and hands-on experiences in the field of biology.
+
+- **Professional Memberships or Associations:**
+  - Aspiring member of UNA's biology and mycology communities.
+
+...
+
+## Mycology-Specific Information
+
+- **Educational Focus in Biology:**
+  - Currently pursuing a degree in Biology at UNA in Paraguay, with a focus on mycology.
+
+- **Fieldwork or Lab Experience:**
+  - Basic lab safety
+  - Cells observation
+  - Observation of organisms of different domains
 
 ## PASSION AND INTERESTS
 
-Apart from coding, I am particularly interested in automation, Python, and leveraging tools like Selenium for efficient and scalable testing. I thrive on learning new technologies and staying up-to-date with industry trends, allowing me to deliver cutting-edge solutions.
+Apart from my academic pursuits, I have a keen interest in:
+- Permaculture and the creation of biodiversity in urbanized areas.
+- Learning to create more delicious food and improving my own recipes.
+
+Feel free to [get in touch](mailto:saskia.weissvanderpol@gmail.com) if you have any questions or collaboration opportunities!
