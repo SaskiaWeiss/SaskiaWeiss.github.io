@@ -71,7 +71,7 @@ If you are interested, feel free to [Download my Resume](./path/to/your/resume.p
 - **Fieldwork or Lab Experience:**
   - Basic lab safety
   - Cells observation
-  - Observation of organisms of different domains
+  - Observation of organisms from different domains
 
 ## PASSION AND INTERESTS
 
