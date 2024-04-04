@@ -10,8 +10,8 @@ description: A Github Pages (Jekyll) template based on TailwindCSS
 theme-color: pink # indigo|yellow|pink|green|stone|
 
 # homepage information
-author: Ivan Weiss Van Der Pol
-author-bio: Passionate Software Engineer Specializing in QA Automation  # change to false to hide
+author: Saskia Weiss Van Der Pol
+author-bio: tortera bien lesbiana  # change to false to hide
 author-image: logos/logo_face.png  # file must be in the /assets/img/ folder
 
 # navigation menu
@@ -27,6 +27,8 @@ nav-menu:
 - text: Work Experience
   permalink: work_experience
 - text: Projects
+  permalink: projects
+  -text: mi cocina
   permalink: projects
 
 # use false to turn off any social media links
